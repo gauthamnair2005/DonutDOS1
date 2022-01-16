@@ -1,4 +1,4 @@
-# DonutDOS1
+# DonutDOS 1
 
 DonutDOS is a Python appiication like DOS
 
